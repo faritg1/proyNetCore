@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Infraestructure.Data.Configuration;
 
-public class DepartamentoConfiguration
+public class DepartamentoConfiguration : IEntityTypeConfiguration<Departamento>
 {
     public void Configure(EntityTypeBuilder<Departamento> builder)
     {

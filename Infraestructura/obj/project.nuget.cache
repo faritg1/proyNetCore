@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WhH6MvqJ+Yz/I/U/UtHI/5vITToiPnt+zJRYj9xKfE9xuuxxGzgAFH2h04fYr0QrTdLOZlT9ic8t0L1Vh1BKvA==",
+  "dgSpecHash": "4LI/PDhDkHkmgXkBkQmfmtKwqn/sqynQq0YzsBLYhVyEhDpg5XZux7qOVetrctg8OF7pNeuIZfCJQYtzUPcbNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\M02-037\\Documents\\proyNetCore\\Infraestructura\\Infraestructura.csproj",
+  "projectFilePath": "c:\\Users\\M02-037\\Documents\\proyNetCore\\Infraestructura\\Infraestructura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M02-037\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\M02-037\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
